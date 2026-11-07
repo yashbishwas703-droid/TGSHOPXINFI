@@ -1,2 +1,0 @@
-# TGSHOPXINFI
-Telegram Shop Bot
